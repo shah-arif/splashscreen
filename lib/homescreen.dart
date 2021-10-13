@@ -15,7 +15,11 @@ class _homescreenState extends State<homescreen> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Center(child: Text("Home"))
+          Center(child: Text("Home")),
+          Center(child: Text("Home")),
+          Center(child: Text("Home")),
+          Center(child: Text("Home")),
+          Center(child: Text("Home")),
         ],
       ),
     );
