@@ -29,7 +29,7 @@ class _splashscreenState extends State<splashscreen> {
       backgroundColor: Colors.purple,
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [Center(child: Text("Loading....."))],
+        children: [Center(child: Text("Loading.....",style: TextStyle(fontSize: 40,color: Colors.white),))],
       ),
     );
   }
